@@ -1,6 +1,16 @@
 body{
-    background-color: rgb(61, 141, 141);
+    background-color: rgb(11, 228, 228);
+    margin: 100px;
 }
 img{
     width: 100%;
+}
+
+h1{
+    text-align: center;
+}
+
+
+p{
+    text-align: center;
 }
